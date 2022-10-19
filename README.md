@@ -4,8 +4,13 @@ Arquivo exportado de um banco mongodb, com os dados das eleições 2022 - 1º tu
 ## Precisa instalar:
     MongoDB: 6
 
-Esse banco mongodb foi gerado pela aplicação:
+Esse banco mongodb foi gerado pela aplicação:<br />
 https://github.com/jonasvix/import-eleicao-2022
+<br />
+<br />
+
+Pasta com o arquivo "eleicao2022.01.gz" para download: <br />
+https://www.dropbox.com/sh/kygi5wo789vvmm9/AAAgH28WHh1QJAoPToStiQEKa?dl=0
 <br />
 <br />
 
@@ -23,9 +28,3 @@ Help: https://www.mongodb.com/docs/database-tools/mongorestore/#restore-from-com
 <br />
 <br />
 
-Pasta com backup do arquivo "eleicao2022.01.gz": <br />
-https://www.dropbox.com/sh/kygi5wo789vvmm9/AAAgH28WHh1QJAoPToStiQEKa?dl=0
-<br />
-<br />
-Arquivo backup "eleicao2022.01.gz": <br />
-https://www.dropbox.com/s/69oyvwxxmkb8tt3/eleicao2022.01.gz?dl=0
